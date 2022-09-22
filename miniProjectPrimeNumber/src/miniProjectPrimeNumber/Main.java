@@ -1,6 +1,6 @@
 package miniProjectPrimeNumber;
 
-public class miniProjectPrimeNumber {
+public class Main {
 
 	public static void main(String[] args) {
 		//bug= sistemsel açık

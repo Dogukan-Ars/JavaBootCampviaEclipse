@@ -2,7 +2,7 @@ package sayiBulma;
 
 import java.util.Iterator;
 
-public class sayiBulma {
+public class Main {
 
 	public static void main(String[] args) {
 		

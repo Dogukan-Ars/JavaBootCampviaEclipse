@@ -1,6 +1,6 @@
 package recapDemo2;
 
-public class recapDemo2 {
+public class Main {
 
 	public static void main(String[] args) {
 		double[] myList = { 1.2, 1.3, 4.3, 5.6 };

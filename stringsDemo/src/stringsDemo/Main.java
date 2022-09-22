@@ -1,6 +1,6 @@
 package stringsDemo;
 
-public class stringsDemo {
+public class Main {
 
 	public static void main(String[] args) {
 		String mesaj = "     Bugün hava çok güzel.     ";

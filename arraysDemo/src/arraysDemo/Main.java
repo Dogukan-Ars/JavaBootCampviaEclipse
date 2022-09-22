@@ -2,7 +2,7 @@ package arraysDemo;
 
 import java.util.Iterator;
 
-public class arraysDemo {
+public class Main {
 
 	public static void main(String[] args) {
 		String ogrenci1 = "Engin";
