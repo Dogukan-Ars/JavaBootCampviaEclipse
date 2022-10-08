@@ -25,4 +25,4 @@ on Products.CategoryID = Categories.CategoryID     --DTO in C# -> Data Transform
 where Products.UnitPrice>10
 
 select * from Products p left join [Order Details] od     --Left join ise solda olup sağda olmayan ürünleri de getirmeye yarar. Right join de tam tersi
-on p.ProductID = od.ProductID
+on p.ProductID = od.ProductID 
